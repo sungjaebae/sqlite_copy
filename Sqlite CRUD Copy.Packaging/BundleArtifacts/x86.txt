@@ -1,0 +1,2 @@
+MainPackage=C:\Users\hsm01\Desktop\programming\CSharp-Sqlite-CRUD-Operations\Sqlite CRUD Copy.Packaging\bin\x86\Release\Sqlite CRUD Copy.Packaging_1.0.0.0_x86.msix
+SymbolPackage=C:\Users\hsm01\Desktop\programming\CSharp-Sqlite-CRUD-Operations\Sqlite CRUD Copy.Packaging\obj\x86\Release\Symbols\Sqlite CRUD Copy.Packaging_1.0.0.0_x86.appxsym
